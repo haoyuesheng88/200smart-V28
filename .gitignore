@@ -1,0 +1,8 @@
+*.png
+*.tmp
+*.log
+*.err
+*.smart
+*.dmp
+tmp/
+output/
