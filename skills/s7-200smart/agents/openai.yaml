@@ -1,0 +1,7 @@
+interface:
+  display_name: "S7-200 SMART V2.8"
+  short_description: "Automate AWL import, compile checks, and invalid-network detection for Micro/WIN SMART V2.8."
+  default_prompt: "Use $s7-200smart to import an AWL into STEP 7-Micro/WIN SMART V2.8, compile it, and verify there are no invalid networks."
+
+policy:
+  allow_implicit_invocation: true
